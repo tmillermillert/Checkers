@@ -33,7 +33,6 @@
 		AF78548A1DF00C8C008AD111 /* checkerWorking */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = checkerWorking; sourceTree = BUILT_PRODUCTS_DIR; };
 		AFDAF5861DFB3EF60035EEC6 /* checker.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = checker.cpp; sourceTree = SOURCE_ROOT; };
 		AFDAF5871DFB3EF60035EEC6 /* checker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = checker.h; sourceTree = SOURCE_ROOT; };
-		AFDAF5881DFB3EF60035EEC6 /* checkerWorking.xcodeproj.zip */ = {isa = PBXFileReference; lastKnownFileType = archive.zip; path = checkerWorking.xcodeproj.zip; sourceTree = SOURCE_ROOT; };
 		AFDAF5891DFB3EF60035EEC6 /* computer_player.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = computer_player.cpp; sourceTree = SOURCE_ROOT; };
 		AFDAF58A1DFB3EF60035EEC6 /* computer_player.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = computer_player.h; sourceTree = SOURCE_ROOT; };
 		AFDAF58B1DFB3EF60035EEC6 /* coordinate.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = coordinate.cpp; sourceTree = SOURCE_ROOT; };
@@ -81,7 +80,6 @@
 			children = (
 				AFDAF5861DFB3EF60035EEC6 /* checker.cpp */,
 				AFDAF5871DFB3EF60035EEC6 /* checker.h */,
-				AFDAF5881DFB3EF60035EEC6 /* checkerWorking.xcodeproj.zip */,
 				AFDAF5891DFB3EF60035EEC6 /* computer_player.cpp */,
 				AFDAF58A1DFB3EF60035EEC6 /* computer_player.h */,
 				AFDAF58B1DFB3EF60035EEC6 /* coordinate.cpp */,
